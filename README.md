@@ -12,14 +12,14 @@ Users should be able to:
 
 ### My solution (image)
 
-![mobile version](./my/design/mobile-version.png)
-![desktop version](./my/design/desktop-version.png)
+![mobile version](./my-design/mobile-version.png)
+![desktop version](./my-design/desktop-version.png)
 
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/statistics-preview-card-component-using-only-html-and-css-NPWQGmLDN)
-- Live Site URL: [](https://anviwarehouse.github.io/stats-preview-card-component/)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/statistics-preview-card-component-using-only-html-and-css-NPWQGmLDN).
+- Live Site URL: [Live site](https://anviwarehouse.github.io/stats-preview-card-component/).
 
 
 ### My process
