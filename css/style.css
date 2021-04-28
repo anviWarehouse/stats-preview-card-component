@@ -59,6 +59,7 @@ a{
 @media only screen and (max-width: 768px){
     .main-card{
         display: block;
+        max-width: 400px;
     }
 }
 
@@ -117,7 +118,7 @@ a{
     margin-top: 40px;
 }
 
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 400px){
     .main-card__stats{
         display: block;
     }
